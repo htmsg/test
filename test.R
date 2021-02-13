@@ -1,0 +1,2 @@
+chr<-"hello"
+paste(chr)
